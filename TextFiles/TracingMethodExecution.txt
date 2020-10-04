@@ -1,0 +1,7 @@
+public void run {
+	bludger(2001)
+}
+
+snitch: x = 4004, y = 2001
+quaffle: x = 2003, y = 1, z = 1001
+bludger: x = 1001, y = 2001, z = 2003
